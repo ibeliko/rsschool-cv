@@ -1,3 +1,4 @@
+![image](https://i.postimg.cc/WzrMPH06/photo-2024-05-15-08-12-52.jpg)
 #### Aliaksei Bialiayeu
 ## My contacts
 * Discord: @Belik0 (Aliaksei Bialiayeu)
@@ -15,7 +16,7 @@
 * Belarussian Technical National University (2016-2020)
     * Faculty of Marketing, Management and Entrepreneurship
         * Manager-economist
-## Languages
+### Languages
 * English : B1
 * Polish : A1
 * Dutch : A1
