@@ -20,6 +20,8 @@ I have been working as a procurement specialist for more than a year, before tha
     * Faculty of Marketing, Management and Entrepreneurship
         * Manager-economist
 ### Languages
-* **English** : B1
-* **Polish** : A1
-* **Dutch** : A1
+<ul>
+<li>English : B1 </li>
+<li>Polish : A1 </li>
+<li>Dutch : A1 </li>
+</ul>
