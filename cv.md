@@ -13,6 +13,48 @@ My goal is to change my current work and learn the frontend, I have been working
 ```javascript
 console.log("Hello, world");
 ```
+```html
+<form action="/people">
+<label>
+    Ваш номер заказа
+    <input type="search">
+  </label>
+<p><label></p>
+<p><b>Имя</b></p>
+  <input type="text" name="delivery">
+<p><b>Фамилия</b></p>
+  <input type="text" name="delivery">
+<p><b>Выберите свой подарок</b></p>
+<p><select multiple></p>
+  <option>Бесплатная Coca-cola 0,5л</option>
+  <option>Бесплатная Fanta 0,5л</option>
+  <option>Бесплатная Картошка фри мал.</option>
+  <option>Бесплатные Наггетсы 5шт</option>
+  <option>Не хочу подарок</option>
+</select>
+<b><p>Доставка:</p></b>
+<label>
+    <input type="radio" name="delivery" value="courier">
+   Курьером
+  </label>
+<br>
+<label>
+    <input type="radio" name="delivery" value="take by myself">
+Самовывоз
+  </label>
+<br>
+<p><b>Отзыв</b></p>
+<textarea rows="4" cols="30"></textarea>
+<br>
+<p><b>Посоветуете нас друзьям?</b></p>
+<select>
+  <option>Да</option>
+  <option disabled>Нет</option>
+  <option disabled>Не знаю</option>
+  </select>
+<p><button>Отправить заказ</button></p>
+</form>
+```
 ## Experiance
 I have been working as a procurement specialist for more than a year, before that I had experience as a sales manager
 ## Education
