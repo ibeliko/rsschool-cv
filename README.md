@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ibeliko.github.io/rsschool-cv/
