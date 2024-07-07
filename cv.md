@@ -1,0 +1,69 @@
+![image](https://i.postimg.cc/WzrMPH06/photo-2024-05-15-08-12-52.jpg)
+#### Aliaksei Bialiayeu
+## My contacts
+* **Location** : Minsk, Belarus
+* **Discord** : @Belik0 (Aliaksei Bialiayeu)
+* **Telegram** : <a href="https://t.me/Belik0">https://t.me/Belik0</a>
+* **Github** : <a href="https://github.com/ibeliko">ibeliko</a>
+## About me
+My goal is to change my current work and learn the frontend, I have been working as a procurement specialist for more than a year, before that I had experience as a sales manager, I love learning, I had experience studying in testing courses, I also learned English and started learning German and Polish languages
+## Skills
+* Have some knowledge of Git, HTML, basic Javascript and Python
+## Coding examples
+```javascript
+console.log("Hello, world");
+```
+```html
+<form action="/people">
+<label>
+    Ваш номер заказа
+    <input type="search">
+  </label>
+<p><label></p>
+<p><b>Имя</b></p>
+  <input type="text" name="delivery">
+<p><b>Фамилия</b></p>
+  <input type="text" name="delivery">
+<p><b>Выберите свой подарок</b></p>
+<p><select multiple></p>
+  <option>Бесплатная Coca-cola 0,5л</option>
+  <option>Бесплатная Fanta 0,5л</option>
+  <option>Бесплатная Картошка фри мал.</option>
+  <option>Бесплатные Наггетсы 5шт</option>
+  <option>Не хочу подарок</option>
+</select>
+<b><p>Доставка:</p></b>
+<label>
+    <input type="radio" name="delivery" value="courier">
+   Курьером
+  </label>
+<br>
+<label>
+    <input type="radio" name="delivery" value="take by myself">
+Самовывоз
+  </label>
+<br>
+<p><b>Отзыв</b></p>
+<textarea rows="4" cols="30"></textarea>
+<br>
+<p><b>Посоветуете нас друзьям?</b></p>
+<select>
+  <option>Да</option>
+  <option disabled>Нет</option>
+  <option disabled>Не знаю</option>
+  </select>
+<p><button>Отправить заказ</button></p>
+</form>
+```
+## Experiance
+I have been working as a procurement specialist for more than a year, before that I had experience as a sales manager
+## Education
+* **Belarussian Technical National University** (2016-2020)
+    * Faculty of Marketing, Management and Entrepreneurship
+        * Manager-economist
+### Languages
+<ul>
+<li>English : B1 </li>
+<li>Polish : A1 </li>
+<li>Dutch : A1 </li>
+</ul>
