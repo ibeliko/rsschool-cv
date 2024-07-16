@@ -1,3 +1,7 @@
-p {
-color: red;
+<style>
+.bold-text 
+{
+  font: bold 24px Verdana, sans-serif;
 }
+</style>
+<p class="bold-text">ffff</p>
